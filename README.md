@@ -71,6 +71,8 @@ The Den builds on work from many open-source creators and communities. You can a
 | Noto Project contributors | [Noto fonts](https://github.com/notofonts) · [Contribute](https://github.com/notofonts/noto-docs/blob/main/docs/website/contribute.md) |
 
 **Without the work of these amazing developers and teams, this service would not be possible. Thank you!**
+
+---
 *All media provided was owned, supplied, or otherwise procured from the users of this service. Thanks goes to all the people that provided for this service!*
 
 ###
