@@ -51,9 +51,9 @@ These are directions for future work, not features promised in the current APK:
 - Better cross-device continuity for follows and listening progress.
 - More themes and refinements to the Golden Hour experience.
 - More Installation Options
-- - SmartTV (Roku, Android TV, Dedicated Hardware)
-- - iPhone and iOS devices
-- - PC/Laptop Experience (via web portal or dedicated Windows/MacOS apps)
+  - SmartTV (Roku, Android TV, Dedicated Hardware)
+  - iPhone and iOS devices
+  - PC/Laptop Experience (via web portal or dedicated Windows/MacOS apps)
 
 ## Credits
 
