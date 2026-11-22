@@ -71,9 +71,7 @@ The Den builds on work from many open-source creators and communities. You can a
 | Noto Project contributors | [Noto fonts](https://github.com/notofonts) · [Contribute](https://github.com/notofonts/noto-docs/blob/main/docs/website/contribute.md) |
 
 **Without the work of these amazing developers and teams, this service would not be possible. Thank you!**
-
----
 *All media provided was owned, supplied, or otherwise procured from the users of this service. Thanks goes to all the people that provided for this service!*
 
-###
+---
 ***The Den does not provide movies, shows, or music with its download. Media access is determined by each member's Graze account. All media available through The Den is user-provided and sourced from lawfully acquired physical media or legitimately obtained digital sources. The Den is intended to replicate the private sharing of media among family members, with content strictly prohibited from sale, redistribution, or use outside of The Den app and its services.***
